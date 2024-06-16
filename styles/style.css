@@ -1,0 +1,57 @@
+p {
+ color: #222323;
+}
+h1 {
+ color: #222323;
+}
+h2 {
+ color: #222323;
+}
+h3 {
+ color: #222323;
+}
+ul {
+ color: #222323;
+}
+html {
+background-color:#dbdbdb;
+}
+td {
+font-size:12px;
+}
+html {
+  font-size: 12px;
+  font-family: "Gothic A1", sans-serif; 
+}
+a{
+color: blue;
+}
+a:hover{
+color: dodgerblue;
+}
+h1 {
+  margin-top: 25px;
+  margin-right: 150px;
+  margin-left: 80px;
+}
+h2 {
+  margin-right: 150px;
+  margin-left: 80px;
+}
+h3 {
+  margin-right: 150px;
+  margin-left: 80px;
+}
+p {
+  margin-right: 150px;
+  margin-left: 80px;
+}
+ul {
+  margin-right: 150px;
+  margin-left: 80px;
+}
+img {
+overflow: hidden;
+float: left;
+border: 25px solid #dbdbdb;
+}
