@@ -24,14 +24,11 @@ html {
   font-family: "Gothic A1", sans-serif; 
 }
 a{
-color: zaffre;
-}
-a:visited{
- color:dark purple;
-         }
+color: #222323;
 }
 a:hover{ 
-color: #ffffff;
+color: #dbdbdb;
+background-color: #222323;
 }
 a:active{
  color:red;
