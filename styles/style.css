@@ -26,11 +26,16 @@ html {
 a{
 color: zaffre;
 }
+a:visited{
+ color:dark purple;
+         }
+}
 a:hover{ 
 color: #ffffff;
 }
-a:visited{color:dark purple;
-         }
+a:active{
+ color:red;
+}
 h1 {
   margin-top: 25px;
   margin-right: 150px;
