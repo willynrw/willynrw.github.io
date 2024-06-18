@@ -31,9 +31,11 @@ color: #dbdbdb;
 background-color: #222323;
 }
 a:active{
- color:red;
+ color:chartreuse;
 }
 h1 {
+ color: #dbdbdb;
+ background-color: #222323;
   margin-top: 25px;
   margin-right: 150px;
   margin-left: 80px;
