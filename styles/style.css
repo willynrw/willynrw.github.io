@@ -25,9 +25,11 @@ html {
 }
 a{
 color: blue;
+text-decoration: none;
 }
 a:hover{ 
 color: #222323;
+text-decoration: none;
 }
 h1 {
   margin-top: 25px;
