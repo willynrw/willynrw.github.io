@@ -35,15 +35,15 @@ a:hover{
 color: #222323;
 text-decoration: none;
 }
-a.a5:hover{
+.a5:hover{
  color: orange;
  text-decoration: none;
 }
-a.a6:hover{
+.a6:hover{
  color: red;
  text-decoration: none;
 }
-a.a7:hover{
+.a7:hover{
  color: purple;
  text-decoration: none;
 }
