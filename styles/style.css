@@ -23,6 +23,12 @@ html {
   font-size: 12px;
   font-family: "Muli", sans-serif; 
 }
+.sidenav{
+ position:fixed;
+ z-index: 1;
+ top:0;
+ left:0;
+}
 a{
 color: blue;
 text-decoration: none;
