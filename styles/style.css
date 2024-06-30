@@ -23,12 +23,6 @@ html {
   font-size: 12px;
   font-family: "Muli", sans-serif; 
 }
-.sidenav{
- position:fixed;
- z-index: 1;
- top:0;
- left:0;
-}
 a{
 color: blue;
 text-decoration: none;
@@ -41,15 +35,15 @@ a:hover{
 color: #222323;
 text-decoration: none;
 }
-a5:hover{
+a.a5:hover{
  color: orange;
  text-decoration: none;
 }
-a6:hover{
+a.a6:hover{
  color: red;
  text-decoration: none;
 }
-a7:hover{
+a.a7:hover{
  color: purple;
  text-decoration: none;
 }
@@ -74,12 +68,12 @@ p {
   margin-right: 150px;
   margin-left: 80px;
 }
+ul {
+  margin-right: 150px;
+  margin-left: 80px;
+}
 img {
 overflow: hidden;
 float: left;
 border: 25px solid #dbdbdb;
-}
-ul {
-  margin-right: 150px;
-  margin-left: 80px;
 }
