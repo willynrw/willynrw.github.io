@@ -41,6 +41,18 @@ a:hover{
 color: #222323;
 text-decoration: none;
 }
+a5:hover{
+ color: orange;
+ text-decoration: none;
+}
+a6:hover{
+ color: red;
+ text-decoration: none;
+}
+a7:hover{
+ color: purple;
+ text-decoration: none;
+}
 h1 {
   margin-top: 25px;
   margin-right: 150px;
