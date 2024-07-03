@@ -23,6 +23,9 @@ html {
   font-size: 12px;
   font-family: "Noto", sans-serif; 
 }
+body {
+ background-image:linear-gradient(#dbdbdb 50%, #fcfcfc);
+}
 a{
 color: blue;
 text-decoration: none;
