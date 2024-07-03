@@ -14,7 +14,7 @@ ul {
  color: #222323;
 }
 html {
-background-color:#dbdbdb;
+background-image:linear gradient (blue, #dbdbdb);
 }
 td {
 font-size:12px;
