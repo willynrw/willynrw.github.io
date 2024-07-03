@@ -16,10 +16,6 @@ ul {
 html {
 background-color:#dbdbdb;
 }
-.box{
- background-image:linear-gradient(#dbdbdb 75%, blue);
- background-size: cover;
-}
 td {
 font-size:12px;
 }
