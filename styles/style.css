@@ -1,4 +1,4 @@
-@import url(https://fonts.googleapis.com/css?family=Open+Sans);
+@import url(https://fonts.googleapis.com/css?family=Muli);
 p {
  color: #222323;
 }
@@ -22,7 +22,7 @@ font-size:12px;
 }
 html {
   font-size: 12px;
-  font-family: "Open Sans", sans-serif; 
+  font-family: "Muli", sans-serif; 
 }
 a{
 color: blue;
