@@ -66,5 +66,5 @@ img {
 overflow: hidden;
 float: left;
 border: 12px solid #dbdbdb;
-grayscale(1);
+filter: grayscale(100%);
 }
