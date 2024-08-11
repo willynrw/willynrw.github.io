@@ -25,16 +25,20 @@ html {
   font-family: "Muli", sans-serif; 
 }
 a{
-color: #ec6607;
+color: #0875ae;
 text-decoration: none;
 }
 }
 a:visited{
-color: #ec6607;
+color: #4b476d;
 text-decoration: none;
 }
 a:hover{ 
-color: #e6007e;
+color: #f2fafe;
+text-decoration: none;
+}
+a:active{ 
+color: #ef3d21;
 text-decoration: none;
 }
 h1 {
