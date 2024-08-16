@@ -3,7 +3,7 @@ p {
  color: #222323;
 }
 h1 {
-  color: #222323;
+  color: #d124f2;
 }
 h2 {
  color: #222323;
@@ -25,23 +25,15 @@ html {
   font-family: "Muli", sans-serif; 
 }
 a{
-color: #0875ae;
+color: #222323;
 text-decoration: none;
 }
 a:link{
-color: #0875ae;
-text-decoration: none;
-}
-a:visited{
-color: #4b476d;
+color: #222323;
 text-decoration: none;
 }
 a:hover{ 
-color: #f2fafe;
-text-decoration: none;
-}
-a:active{ 
-color: #ef3d21;
+font-style: italic;
 text-decoration: none;
 }
 h1 {
