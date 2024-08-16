@@ -26,6 +26,7 @@ html {
 }
 a{
 color: #222323;
+font-style: bold;
 text-decoration: none;
 }
 a:link{
