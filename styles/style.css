@@ -25,12 +25,11 @@ html {
   font-family: "Muli", sans-serif; 
 }
 a{
-color: #222323;
-font-style: bold;
+color: #000000;
 text-decoration: none;
 }
 a:link{
-color: #222323;
+color: #000000;
 text-decoration: none;
 }
 a:hover{ 
