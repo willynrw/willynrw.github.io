@@ -1,21 +1,21 @@
 @import url(https://fonts.googleapis.com/css?family=Muli);
 p {
- color: #dbdbdb;
+ color: #ffffff;
 }
 h1 {
-  color: #dbdbdb;
+  color: #ffffff;
 }
 h2 {
- color: #dbdbdb;
+ color: #ffffff;
 }
 h3 {
- color: #dbdbdb;
+ color: #ffffff;
 }
 ul {
- color: #dbdbdb;
+ color: #ffffff;
 }
 html {
-background-color:#222323;
+background-color:#000000;
 }
 td {
 font-size:12px;
@@ -25,16 +25,16 @@ html {
   font-family: "Muli", sans-serif; 
 }
 a{
-color: #dbdbdb;
+color: #ffffff;
 text-decoration: none;
 }
 a:link{
-color: #FEFEFE;
+color: #800080;
 text-decoration: none;
 font-weight: bold;
 }
 a:hover{
-color: #030303;
+color: #000000;
 text-decoration: none;
 font-weight: bolder;
 }
@@ -66,6 +66,7 @@ ul {
 img {
 overflow: hidden;
 float: left;
-border: 12px solid #222323;
+border: 12px solid #000000;
 filter: grayscale(100%);
 }
+
