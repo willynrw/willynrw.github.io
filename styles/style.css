@@ -1,6 +1,7 @@
 @import url(https://fonts.googleapis.com/css?family=Muli);
 p {
- color: #800080;
+ color: #000000;
+ text-indent: 50px;
 }
 h1 {
   color: #800080;
@@ -69,6 +70,7 @@ float: left;
 border: 12px solid #ffffff;
 filter: grayscale(100%);
 }
+
 
 
 
