@@ -29,12 +29,12 @@ color: #000000;
 text-decoration: none;
 }
 a:link{
-color: #800080;
+color: #000000;
 text-decoration: none;
 font-weight: bold;
 }
 a:hover{
-color: #000000;
+color: #800080;
 text-decoration: none;
 font-weight: bolder;
 }
@@ -69,5 +69,6 @@ float: left;
 border: 12px solid #ffffff;
 filter: grayscale(100%);
 }
+
 
 
