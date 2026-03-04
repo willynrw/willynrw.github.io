@@ -5,7 +5,7 @@ p {
 }
 h1 {
  font-size: 14px;
-  color: #008080;
+  color: #677787;
 }
 h2 {
  font-size: 13px;
@@ -38,7 +38,7 @@ text-decoration: none;
 font-weight: bold;
 }
 a:hover{
-color: #008080;
+color: #677787;
 text-decoration: none;
 font-weight: bolder;
 }
@@ -73,6 +73,7 @@ float: left;
 border: 12px solid #ffffff;
 filter: grayscale(100%);
 }
+
 
 
 
