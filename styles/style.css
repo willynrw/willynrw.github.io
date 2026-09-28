@@ -71,7 +71,6 @@ img {
 overflow: hidden;
 float: left;
 border: 12px solid #ffffff;
-filter: grayscale(100%);
 }
 
 <style>
